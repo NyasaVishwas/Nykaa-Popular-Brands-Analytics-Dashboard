@@ -53,16 +53,16 @@ An interactive Power BI dashboard designed to analyze Nykaa product trends, cust
 ## Dashboard Preview
 
 ### Overview Dashboard
-![Overview Dashboard](assets/overview.png)
+![Overview Dashboard](assets/overview.jpeg)
 
 ### Brand & Category Analysis
-![Brand Analysis](assets/brands-analysis.png)
+![Brand Analysis](assets/brands-analysis.jpeg)
 
 ### Customer Insights
-![Customer Insights](assets/customer-insights.png)
+![Product Detail View](assets/product-detail-view.jpeg)
 
 ### Product Detail View
-![Product Detail](assets/product-view.png)
+![Key Insights](assets/key-insights.jpeg)
 
 ---
 
